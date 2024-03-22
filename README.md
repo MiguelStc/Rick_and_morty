@@ -7,7 +7,7 @@ The goal of this exsercice is to get familliar with the use of an API, and  unde
 
 My project is written in vanilla javascript, HTML, and CSS
 
-<h3>current version : 1 </h3>
+<h3>current version : 1.5 </h3>
 
 
 <h4>Author</h4>
